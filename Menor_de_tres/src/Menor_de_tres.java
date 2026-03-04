@@ -1,3 +1,7 @@
+// Problema: Menor de Três
+// Faça um programa que leia três números inteiros. Em seguida, o programa deve identificar e mostrar qual é o menor entre os três valores lidos. Caso haja valores iguais que sejam os menores, o programa deve simplesmente
+// retornar o valor de um deles.
+
 import java.util.Locale;
 import java.util.Scanner;
 
